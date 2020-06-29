@@ -1,9 +1,9 @@
 {
-  "title": "Tutorial Nextstrain build for Zika virus",
+  "title": "Tutorial Nextstrain build for COVID virus",
   "maintainers": [
     {"name": "Trevor Bedford", "url": "http://bedford.io/team/trevor-bedford/"}
   ],
-  "build_url": "https://github.com/nextstrain/zika-tutorial",
+  "build_url": "https://github.com/projectstem2020/covid",
   "colorings": [
     {
       "key": "gt",
